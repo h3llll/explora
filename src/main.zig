@@ -1,3 +1,5 @@
+// haha zig
+
 const std = @import("std");
 const c = @import("c.zig");
 const window = @import("render/window.zig");
